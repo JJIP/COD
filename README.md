@@ -1,2 +1,5 @@
 # This is a cool website
-![This is cool](myimage.jpg)
+
+This is my image:
+
+![This is cool][myimage.jpg]
